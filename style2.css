@@ -1,0 +1,126 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    background-color: #FFD57E;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+p {
+    line-height: 2;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+p {
+    line-height: 2;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.abhi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coding{
+    margin-left: 2em;
+
+    ;
+}
+.hot-wings{
+    margin-left: 2em;
+}
+.top-container>.title-text>h1{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color:#FAFFAF;
+    color: blue;
+    font-family:"Sacramento", cursive;
+    font-weight: 200;
+    font-size:70px;
+    
+    
+}
+.top-container>.title-text>p{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color:#FAFFAF;
+    color: black;
+    margin-top: 0em;
+    
+}
+.top-container{
+    background-color: #FAFFAF;
+    height: 100vh;
+
+}
+.middle-container{
+   
+    
+ background-color:#96C9F4 ;
+ background-color: #96C9F4;
+ margin-bottom: 0;
+ margin-top: 0;
+}
+.set{
+    background-color: #3FA2F6;
+    margin-bottom: 0vh;
+    margin-top:0;
+    
+
+}
+.skills{
+    background-color: #96C9F4;
+}
+.contact{
+    background-color: #96C9F4;
+}
+.ayyo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #96C9F4;
+    margin-bottom: 5em;
+    margin-top: 0;
+}
